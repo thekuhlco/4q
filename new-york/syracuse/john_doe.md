@@ -1,5 +1,5 @@
 # John Doe
-Being Awesome - Syracuse, New Yorl
+Being Awesome - Syracuse, New York
 
 
 ## 1. What are you working on right now (your full time job... side projects... anything and everything)?
